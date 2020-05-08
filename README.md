@@ -6,6 +6,10 @@ impartida dentro del "Plan de formación y asesoramiento virtual para investigad
 posgrado de la Universidad de Granada" (https://sites.google.com/go.ugr.es/yosigopublicando) el 7 
 de mayo de 2020.
 
-Dicha presentación con explicaciones detalladas está disponible en:
+presentacion es una presentación introductoria al taller.
+Mispruebas es un fichero para abordar el taller.
+MispruebasVerFinal sería el aspecto del fichero una vez terminado el taller.
+
+Dicha presentación con explicaciones detalladas está disponible online en:
 https://drive.google.com/open?id=150tqP5rEFayh8Uy3mbits5wj1EwjPSgv
 

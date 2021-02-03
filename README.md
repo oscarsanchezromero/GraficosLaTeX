@@ -11,5 +11,5 @@ Mispruebas es un fichero para abordar el taller.
 MispruebasVerFinal sería el aspecto del fichero una vez terminado el taller.
 
 Dicha presentación con explicaciones detalladas está disponible online en:
-https://drive.google.com/open?id=150tqP5rEFayh8Uy3mbits5wj1EwjPSgv
+https://youtu.be/wwfKOIFQ7zc
 
